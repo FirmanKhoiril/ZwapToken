@@ -2,7 +2,7 @@
 
 const Transaction = () => {
   return (
-    <div>Transaction</div>
+    <section className="min-h-screen">Transaction</section>
   )
 }
 

@@ -1,7 +1,7 @@
 
 const Services = () => {
   return (
-    <div>Services</div>
+    <section className="w-full *:">Services</section>
   )
 }
 
