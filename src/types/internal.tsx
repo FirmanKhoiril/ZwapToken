@@ -5,4 +5,5 @@ export type TypeService = {
     title: string,
     icon: ReactElement<any, any>
     subtitle: string
+    idx: number
 }

@@ -8,7 +8,7 @@ export const App = () => {
   useAnimationOnScroll()
 
   return (
-  <main className='  h-full w-full px-4 relative'>
+  <main className='  h-full w-full relative'>
     <Navbar />
     <div className="w-full h-full  container mx-auto">
     <Routes>
